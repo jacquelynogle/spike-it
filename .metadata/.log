@@ -1,0 +1,9 @@
+!SESSION 2013-10-05 21:04:21.039 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/alex/spike-it -os linux -ws gtk -arch x86_64
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-10-05 21:16:53.857
+!MESSAGE Failed to load properties file for project 'SpikeIt'
